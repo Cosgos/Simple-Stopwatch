@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "name": "Simple Stopwatch",
+        "id": "stopwatch",
+        "pack_format": 15,
+        "version": "1.20.1",
+        "authors": [
+            "Shepherd1909, Cosgos"
+        ],
+        "description": "A simple, multiplayer stopwatch that resets on death.",
+        "license": "CC BY 4.0"
+    }
+}
